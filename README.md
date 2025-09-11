@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/abdulrahman-alwakeel-a09792345/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/_boody_alwakeel__/" target="_blank"> <img src="https://static.vecteezy.com/system/resources/previews/042/148/632/non_2x/instagram-logo-instagram-social-media-icon-free-png.png" jsaction class="sFlh5c FyHeAf iPVvYb" style="max-width: 901px; height: 199px; margin: 0px; width: 183px;" alt="Instagram logo. Instagram Social media icon. 42148632 PNG" jsname="kn3ccd">
+<a href="https://www.instagram.com/_boody_alwakeel__/" target="_blank"> <img src="https://static.vecteezy.com/system/resources/previews/042/148/632/non_2x/instagram-logo-instagram-social-media-icon-free-png.png" jsaction class="sFlh5c FyHeAf iPVvYb" style="max-width: 901px; height: 19px; margin: 0px; width: 10px;" alt="Instagram logo. Instagram Social media icon. 42148632 PNG" jsname="kn3ccd">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="http://www.youtube.com/@boody_tube" target="_blank"><img height="30" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
