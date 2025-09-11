@@ -21,7 +21,7 @@ Outside of coding, I create videos, explore new tech trends, and constantly push
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
 - 📫 How to reach me: [b98576479@gmail.com](mailto:yourmail@example.com)  
-- 🔗 My YouTube: [  youtube.com/@boody_tube ](https://youtube.com/@YOUR_CHANNEL)  
+- 🔗 My YouTube: [  youtube.com/@boody_tube ](http://www.youtube.com/@boody_tube)  
 
 <br>
 
