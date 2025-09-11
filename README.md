@@ -31,11 +31,17 @@ Outside of coding, I create videos, explore new tech trends, and constantly push
 
 **Languages and Tools:**
 <br>
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"></code>
-
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></code>
 ---
 <!-- <a href="https://www.instagram.com/_boody_alwakeel__/" target="_blank"> <img src="https://static.vecteezy.com/system/resources/previews/042/148/632/non_2x/instagram-logo-instagram-social-media-icon-free-png.png" jsaction class="sFlh5c FyHeAf iPVvYb" style="max-width: 901px; height: 50px; margin: 0px; width: 70px;" alt="Instagram logo. Instagram Social media icon. 42148632 PNG" jsname="kn3ccd">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
