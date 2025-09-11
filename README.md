@@ -41,8 +41,6 @@ Outside of coding, I create videos, explore new tech trends, and constantly push
 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdulrahmanalwakeel" alt="Profile Views" /> </p>
-
 </br>
 
 **Languages and Tools:**
