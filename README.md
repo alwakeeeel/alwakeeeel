@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/abdulrahman-alwakeel-a09792345/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/_boody_alwakeel__/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i>
+<a href="https://www.instagram.com/_boody_alwakeel__/" target="_blank"><i class="fa fa-instagram" aria-hidden="false"></i>
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="http://www.youtube.com/@boody_tube" target="_blank"><img height="30" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
