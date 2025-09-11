@@ -1,4 +1,6 @@
-## Hi there 👋
+Hi, I'm **Abdulrahman Alwakeel**, a **Backend Developer** 👨🏻‍💻 and **YouTuber** 🎥.  
+I love building scalable backend systems, solving complex problems, and sharing knowledge through my content.  
+Outside of coding, I create videos, explore new tech trends, and constantly push myself to improve.  
 - 🔭 I’m currently working on back-end projects
 - 🌱 I’m currently learning PHP
 - 👯 I’m looking to collaborate on A project AI/BACKEN
@@ -13,10 +15,6 @@
 </p>
 
 <br>
-
-Hi, I'm **Abdulrahman Alwakeel**, a **Backend Developer** 👨🏻‍💻 and **YouTuber** 🎥.  
-I love building scalable backend systems, solving complex problems, and sharing knowledge through my content.  
-Outside of coding, I create videos, explore new tech trends, and constantly push myself to improve.  
 
 <br>
 
