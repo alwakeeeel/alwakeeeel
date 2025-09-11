@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <p align="left">
 <a href="https://www.linkedin.com/in/abdulrahman-alwakeel-a09792345/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/_boody_alwakeel__/" target="_blank"><img height="30" src=" https://www.google.com/search?q=%3Cimg+src%3D%22https%3A%2F%2Fichef.bbci.co.uk%2Face%2Fstandard%2F976%2Fcpsprodpb%2FE802%2Fproduction%2F_89649395_instagram_logo_976.jpg%22+jsaction+class%3D%22sFlh5c+FyHeAf+iPVvYb%22+style%3D%22max-width%3A+976px%3B+height%3A+171px%3B+margin%3A+0px%3B+width%3A+304px%3B%22+alt%3D%22Instagram+launches+a+new+logo+-+a+%27simpler+camera%27+-+BBC+News%22+jsname%3D%22kn3ccd%22%3E&sourceid=chrome&ie=UTF-8">
+<a href="https://www.instagram.com/_boody_alwakeel__/" target="_blank"> <img src="https://ichef.bbci.co.uk/ace/standard/976/cpsprodpb/E802/production/_89649395_instagram_logo_976.jpg" jsaction class="sFlh5c FyHeAf iPVvYb" style="max-width: 976px; height: 171px; margin: 0px; width: 304px;" alt="Instagram launches a new logo - a 'simpler camera' - BBC News" jsname="kn3ccd">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="http://www.youtube.com/@boody_tube" target="_blank"><img height="30" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
@@ -44,10 +44,6 @@ Outside of coding, I create videos, explore new tech trends, and constantly push
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png"></code>
 
 ---
