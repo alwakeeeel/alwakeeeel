@@ -81,10 +81,6 @@ Here’s how I’m currently progressing in different technologies:
 <p align="center">
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=boodytube&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
 </p>
-### 🚀 Languages & Tools
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=boodytube&layout=compact&theme=tokyonight)
 
