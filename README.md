@@ -78,14 +78,14 @@ Here’s how I’m currently progressing in different technologies:
 *(Feel free to edit progress bars as you improve 🚀)*  
 
 ---
-
+<!--
 <p align="center">
   <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=janaadarwish&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
 </p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janaadarwish&layout=compact&hide_border=false&langs_count=6)
 
----
+--->
 
 <!-- <a href="https://www.instagram.com/_boody_alwakeel__/" target="_blank"> <img src="https://static.vecteezy.com/system/resources/previews/042/148/632/non_2x/instagram-logo-instagram-social-media-icon-free-png.png" jsaction class="sFlh5c FyHeAf iPVvYb" style="max-width: 901px; height: 50px; margin: 0px; width: 70px;" alt="Instagram logo. Instagram Social media icon. 42148632 PNG" jsname="kn3ccd">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
