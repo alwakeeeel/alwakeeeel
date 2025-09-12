@@ -6,6 +6,9 @@ Outside of coding, I create videos, explore new tech trends, and constantly push
 
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" />
 
+<div align="center">
+     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2o4MHYwYzV1a3hiZXN4OHRxcnhpeXp3MGliZ3FmN2E2Z2RoZDR0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IpeYSEZshTefe/giphy.gif" />
+</div>
 
   <p>
     <a href="https://github.com/RaoHai">
@@ -57,5 +60,31 @@ Outside of coding, I create videos, explore new tech trends, and constantly push
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></code>
 ---
+
+
+### 📊 Progress Tracking
+Here’s how I’m currently progressing in different technologies:  
+
+| Language/Tech | Progress |
+|---------------|----------|
+| HTML          | ██████████░░░░░░ 70% |
+| CSS           | █████████░░░░░░░ 65% |
+| JavaScript    | ████████░░░░░░░░ 60% |
+| PHP           | ███████░░░░░░░░░ 55% |
+| Python        | ████████░░░░░░░░ 60% |
+| C             | ██████░░░░░░░░░░ 45% |
+
+*(Feel free to edit progress bars as you improve 🚀)*  
+
+---
+
+<p align="center">
+  <img align="left" width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=janaadarwish&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
+</p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janaadarwish&layout=compact&hide_border=false&langs_count=6)
+
+---
+
 <!-- <a href="https://www.instagram.com/_boody_alwakeel__/" target="_blank"> <img src="https://static.vecteezy.com/system/resources/previews/042/148/632/non_2x/instagram-logo-instagram-social-media-icon-free-png.png" jsaction class="sFlh5c FyHeAf iPVvYb" style="max-width: 901px; height: 50px; margin: 0px; width: 70px;" alt="Instagram logo. Instagram Social media icon. 42148632 PNG" jsname="kn3ccd">
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
