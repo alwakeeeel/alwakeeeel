@@ -6,10 +6,6 @@ Outside of coding, I create videos, explore new tech trends, and constantly push
 
   <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300" />
 
-<div align="center">
-     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2o4MHYwYzV1a3hiZXN4OHRxcnhpeXp3MGliZ3FmN2E2Z2RoZDR0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IpeYSEZshTefe/giphy.gif" />
-</div>
-
   <p>
     <a href="https://github.com/RaoHai">
       <img src="https://img.shields.io/github/followers/RaoHai?label=Follow&style=social" />
@@ -26,7 +22,12 @@ Outside of coding, I create videos, explore new tech trends, and constantly push
 - 📫 How to reach me: links in bio
 - 😄 Pronouns: boody :()
 - ⚡ Fun fact: I got a youtube channel
+- 
 - <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+
+<div align="center">
+     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2o4MHYwYzV1a3hiZXN4OHRxcnhpeXp3MGliZ3FmN2E2Z2RoZDR0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IpeYSEZshTefe/giphy.gif" />
+</div>
 
 <p align="left">
 <a href="https://www.linkedin.com/in/abdulrahman-alwakeel-a09792345/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
