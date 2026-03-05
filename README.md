@@ -11,7 +11,6 @@ Outside of coding, I create videos, explore new tech trends, and constantly push
 - 👯 I'm looking to collaborate on AI/Backend projects
 - 📫 How to reach me: [b98576479@gmail.com](mailto:b98576479@gmail.com)
 - 🔗 My YouTube: [youtube.com/@boody_tube](http://www.youtube.com/@boody_tube)
-- 😄 Pronouns: boody
 - ⚡ Fun fact: I got a YouTube channel
 
 <p align="center">
