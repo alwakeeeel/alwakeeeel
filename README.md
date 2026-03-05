@@ -21,16 +21,3 @@ Outside of coding, I create videos, explore new tech trends, and constantly push
 
 ---
 
-**Languages and Tools:**
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/c/c.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png"></code>
-
